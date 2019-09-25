@@ -1,0 +1,29 @@
+{
+  "name": "heroku-yosores",
+  "version": "1.0.0",
+  "description": "A simple code App deployed to heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mae-yosores2k19/heroku-yosores.git"
+  },
+  "keywords": [
+    "heroku",
+    "node"
+  ],
+  "author": "jessa mae yosores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mae-yosores2k19/heroku-yosores/issues"
+  },
+  "homepage": "https://github.com/mae-yosores2k19/heroku-yosores#readme",
+  "engines": {
+    "node": "10.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
